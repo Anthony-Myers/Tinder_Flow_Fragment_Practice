@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Flow Fragment Practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_button">continue</string>
+    <string name="my_email_is">My<br/> email is</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="my_first_name_is">My first<br/> name is</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="name_appearance">This is how it will appear in Tinder</string>
+    <string name="my_birthday_is">My<br/> birthday is</string>
+    <string name="birthday_month_hint">M&#160;&#160;M</string>
+    <string name="birthday_day_hint">D&#160;&#160;D</string>
+    <string name="birthday_year_hint">Y&#160;&#160;Y&#160;&#160;Y&#160;&#160;Y</string>
+    <string name="forward_slash">/</string>
+    <string name="public_age">Your age will be public</string>
+    <string name="i_am_a">I am a</string>
+    <string name="woman">WOMAN</string>
+    <string name="man">MAN</string>
+    <string name="gender_consent">Show my gender on my profile</string>
+    <string name="my_school_is">My<br/> school is</string>
+    <string name="school_name">School Name</string>
+    <string name="school_appearance">This is how it will appear in Tinder</string>
+</resources>
